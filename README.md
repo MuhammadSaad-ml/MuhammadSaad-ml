@@ -67,11 +67,6 @@ Are you searching for a skilled Data Analyst proficient in Python, Tableau, and 
 
 ---
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad-ml&show_icons=true&count_private=true&theme=darkwidth"="350"></a>
-</p>
-
-
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
   <p align="left">
@@ -90,4 +85,11 @@ Are you searching for a skilled Data Analyst proficient in Python, Tableau, and 
 </p>
 
 </details>
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad-ml&show_icons=true&count_private=true&theme=darkwidth"="350"></a>
+</p>
+
+
 
