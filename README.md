@@ -74,22 +74,20 @@ Are you searching for a skilled Data Analyst proficient in Python, Tableau, and 
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
-    <a href="https://github.com/MuhammadSaad-ml/Pakistani-Sign-Language-Recogniton" style="width: 48%;">
-      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=Pakistani-Sign-Language-Recogniton&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pakistani-Sign-Language-Recogniton">
+  <p align="left">
+    <a href="https://github.com/MuhammadSaad-ml/Pakistani-Sign-Language-Recogniton">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=Pakistani-Sign-Language-Recogniton&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pakistani-Sign-Language-Recogniton">
     </a>
-    <a href="https://github.com/MuhammadSaad-ml/eda-webapp" style="width: 48%;">
-      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=eda-webapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eda-webapp">
+    <a href="https://github.com/MuhammadSaad-ml/eda-webapp">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=eda-webapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="eda-webapp">
     </a>
-    <a href="https://github.com/MuhammadSaad-ml/User-Experience-Feedback-Analysis" style="width: 48%;">
-      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=User-Experience-Feedback-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="User-Experience-Feedback-Analysis">
+    <a href="https://github.com/MuhammadSaad-ml/User-Experience-Feedback-Analysis">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=User-Experience-Feedback-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="User-Experience-Feedback-Analysis">
     </a>
-    <a href="https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker" style="width: 48%;">
-      <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=Covid-19-Vaccine-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Covid-19-Vaccine-Tracker">
+    <a href="https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=Covid-19-Vaccine-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Covid-19-Vaccine-Tracker">
     </a>
-  </div>
-  <a href="https://github.com/MuhammadSaad-ml?tab=repositories" style="display: block; text-align: center; margin-top: 10px;">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+</p>
+
 </details>
 
