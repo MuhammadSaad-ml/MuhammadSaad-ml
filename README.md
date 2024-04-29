@@ -82,6 +82,9 @@ Are you searching for a skilled Data Analyst proficient in Python, Tableau, and 
     <a href="https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MuhammadSaad-ml&repo=Covid-19-Vaccine-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Covid-19-Vaccine-Tracker">
     </a>
+<a href="https://github.com/MuhammadSaad-ml?tab=repositories" style="display: block; text-align: center; margin-top: 10px;">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
 </details>
