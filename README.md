@@ -6,15 +6,20 @@ Are you searching for a skilled Data Analyst proficient in Python, Tableau, and 
 
 ---
    <p align="left">
-      <a href="https://muhammadsaad-ml.github.io" target="_blank">
-         <img alt="" title="Portfolio Website" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=dev.to&logoColor=black"/></a> 
-      <a href="mailto:saad345khan@gmail.com">
-         <img alt="youtube subscribers" title="Send me a mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=yellow"/></a> 
-      <a href="https://www.youtube.com/    @MuhammadSaad-ou4cp/playlists">
-         <img alt="Visit my YouTube channel" title="Visit my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
-       <a href="https://public.tableau.com/app/profile/muhammad.saad7987/vizzes">
-         <img alt="" title="" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
-   </p>
+    <a href="https://muhammadsaad-ml.github.io" target="_blank" rel="noopener noreferrer">
+        <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=dev.to&logoColor=black"/>
+    </a>
+    <a href="mailto:saad345khan@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img alt="Send me a mail" title="Send me a mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/@MuhammadSaad-ou4cp/playlists" target="_blank" rel="noopener noreferrer">
+        <img alt="Visit my YouTube channel" title="Visit my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
+    <a href="https://public.tableau.com/app/profile/muhammad.saad7987/vizzes" target="_blank" rel="noopener noreferrer">
+        <img alt="Tableau Profile" title="Tableau Profile" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    </a>
+</p>
+
 
 ---
 ### 🧰 ToolKit
