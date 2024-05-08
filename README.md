@@ -2,7 +2,7 @@
 
 **`Data Analyst | Tableau | SQL| Python (DWH,ETL,MDX)`**
 
-Are You Searching For a skilled Data Analyst proficient in Python, Tableau, and SQL? Look no further! With a keen eye for detail and expertise in data manipulation, I bring a comprehensive understanding of Python's analytical capabilities, Tableau's Visualization Prowess, and SQL's querying power.
+Are You Searching For a skilled Data Analyst  Proficient in Python, Tableau, and SQL? Look no further! With a keen eye for detail and expertise in data manipulation, I bring a comprehensive understanding of Python's analytical capabilities, Tableau's Visualization Prowess, and SQL's querying power.
 
 ---
    <p align="left">
